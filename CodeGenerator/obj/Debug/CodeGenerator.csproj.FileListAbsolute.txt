@@ -1,0 +1,15 @@
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.exe
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\CodeGenerator.pdb
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csprojResolveAssemblyReference.cache
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.Properties.Resources.resources
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.GenerateResource.cache
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.exe
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.pdb
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\QRCoder.dll
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\UnityEngine.dll
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.csproj.CopyComplete
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.QrCodeShower.resources
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\Newtonsoft.Json.dll
+D:\Private\QRCodeGenerator\CodeGenerator\bin\Debug\Newtonsoft.Json.xml
+D:\Private\QRCodeGenerator\CodeGenerator\obj\Debug\CodeGenerator.QrGenerator.resources
