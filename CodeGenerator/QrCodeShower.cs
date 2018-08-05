@@ -14,6 +14,7 @@ namespace CodeGenerator
 		}
 
 		Image bmIm;
+
 		private void btnPrint_Click(object sender, System.EventArgs e)
 		{
 			bmIm = pbQrCode.Image;
